@@ -30,6 +30,12 @@ public class SeranggaAksi {
         Lebah.Habitat    ="Pohon Kayu dan Atap Rumah";
 
       Lebah.CaraSimbiosis();
+      
+        Ngengat.nama="Ngengat";
+        Ngengat.Makanan="Nektar bunga atau kain";
+        Ngengat.WaktuAktif="Malam Hari";
+        Ngengat.MasaHidup="10 Minggu";
+        Ngengat.Habitat="Pinggir Sungai atau Hutan";
     }
     
 }
