@@ -29,6 +29,7 @@ public class SeranggaAksi {
         Lebah.MasaHidup  ="122 sampai 152 hari";
         Lebah.Habitat    ="Pohon Kayu dan Atap Rumah";
 
+      Lebah.CaraSimbiosis();
     }
     
 }
