@@ -22,6 +22,13 @@ public class SeranggaAksi {
         KupuKupu.Habitat="Padang Rumput dan Kebun";
         
       KupuKupu.CaraSimbiosis();
+      
+        Lebah.nama       ="Lebah";
+        Lebah.Makanan    ="Serbuk Sari/Nektar";
+        Lebah.WaktuAktif ="Siang Hari";
+        Lebah.MasaHidup  ="122 sampai 152 hari";
+        Lebah.Habitat    ="Pohon Kayu dan Atap Rumah";
+
     }
     
 }
