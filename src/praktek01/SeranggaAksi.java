@@ -21,6 +21,7 @@ public class SeranggaAksi {
         KupuKupu.MasaHidup="Beberapa Minggu";
         KupuKupu.Habitat="Padang Rumput dan Kebun";
         
+      KupuKupu.CaraSimbiosis();
     }
     
 }
