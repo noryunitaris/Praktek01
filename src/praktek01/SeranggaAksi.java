@@ -15,6 +15,12 @@ public class SeranggaAksi {
         Serangga Lebah = new Serangga();
         Serangga Ngengat = new Serangga();
         
+        KupuKupu.nama="Kupu-Kupu";
+        KupuKupu.Makanan="Serbuk Sari/Nektar dan buah busuk";
+        KupuKupu.WaktuAktif="Siang Hari";
+        KupuKupu.MasaHidup="Beberapa Minggu";
+        KupuKupu.Habitat="Padang Rumput dan Kebun";
+        
     }
     
 }
