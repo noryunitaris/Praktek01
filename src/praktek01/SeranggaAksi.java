@@ -36,6 +36,8 @@ public class SeranggaAksi {
         Ngengat.WaktuAktif="Malam Hari";
         Ngengat.MasaHidup="10 Minggu";
         Ngengat.Habitat="Pinggir Sungai atau Hutan";
+        
+      Ngengat.CaraSimbiosis();
     }
     
 }
