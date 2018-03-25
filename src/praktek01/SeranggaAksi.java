@@ -11,6 +11,9 @@ package praktek01;
  */
 public class SeranggaAksi {
     public static void main(String[] args) {
+        Serangga KupuKupu = new Serangga();
+        Serangga Lebah = new Serangga();
+        Serangga Ngengat = new Serangga();
         
     }
     
